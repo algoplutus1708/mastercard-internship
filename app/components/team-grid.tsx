@@ -32,7 +32,7 @@ const teamMembers = [
     role: "Sundar Pichai",
     image: "/placeholder3.jpg?height=300&width=300",
     statement:
-      "You’re my Director, but over the course of those seven days, I found a true mentor in you. I was genuinely fascinated by the depth of your technical knowledge. Most importantly, I truly admired your personality. Honestly, I feel that people from Bombay are smarter than those from Delhi—and I really love Bombay.",
+      "You’re my Director, but over the course of those seven days, I found a true mentor in you. I was genuinely fascinated by the depth of your technical knowledge. Most importantly, I truly admired your personality. I really love Bombay.",
     cardStyle: "holographic",
     shape: "rounded-2xl",
     animation: "hover:scale-105",
