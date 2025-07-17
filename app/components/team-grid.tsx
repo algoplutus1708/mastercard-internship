@@ -256,6 +256,17 @@ const teamMembers = [
     cardStyle: "neon-cyan",
     shape: "rounded-[2.5rem]",
     animation: "hover:-rotate-1",
+  },
+  {
+    id: 23,
+    name: "Prafulla Bansode",
+    role: "Prafulla",
+    image: "/placeholder24.jpg?height=300&width=300",
+    statement:
+      "Thanks a lot first of all, for helping me be comfortable. The main thing thanks for helping in my Presentation. I am really sorry for the last minute changes that I made in my presentation. But you were really helpful and patient with me.",
+    cardStyle: "neon-cyan",
+    shape: "rounded-[2.5rem]",
+    animation: "hover:-rotate-1",
   }
 ]
 
