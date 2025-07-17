@@ -43,7 +43,7 @@ const teamMembers = [
     role: "Shawan",
     image: "/placeholder4.jpg?height=300&width=300",
     statement:
-      "",
+      "I truly cherished the time I got to spend with you. Thank you so much for taking the time to listen to the ideas I had and for giving them your thoughtful attention. It meant a lot to feel heard and valued.",
     cardStyle: "neon-purple",
     shape: "rounded-3xl",
     animation: "hover:rotate-1",
