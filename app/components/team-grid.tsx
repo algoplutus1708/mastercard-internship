@@ -32,7 +32,7 @@ const teamMembers = [
     role: "Sundar Pichai",
     image: "/placeholder3.jpg?height=300&width=300",
     statement:
-      "You’re my Director, but over the course of those seven days, I found a true mentor in you. I was genuinely fascinated by the depth of your technical knowledge. Most importantly, I truly admired your personality. Honestly, I feel that people from Bombay are smarter than those from Delhi—and I really love Bombay.",
+      "You’re my Director, but over the course of those seven days, I found a true mentor in you. I was genuinely fascinated by the depth of your technical knowledge. Most importantly, I truly admired your personality. I really love Bombay.",
     cardStyle: "holographic",
     shape: "rounded-2xl",
     animation: "hover:scale-105",
@@ -43,7 +43,7 @@ const teamMembers = [
     role: "Shawan",
     image: "/placeholder4.jpg?height=300&width=300",
     statement:
-      "",
+      "I truly cherished the time I got to spend with you. Thank you so much for taking the time to listen to the ideas I had and for giving them your thoughtful attention. It meant a lot to feel heard and valued.",
     cardStyle: "neon-purple",
     shape: "rounded-3xl",
     animation: "hover:rotate-1",
