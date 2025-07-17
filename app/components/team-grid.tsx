@@ -267,6 +267,17 @@ const teamMembers = [
     cardStyle: "neon-cyan",
     shape: "rounded-[2.5rem]",
     animation: "hover:-rotate-1",
+  },
+  {
+    id: 23,
+    name: "Arvind Kumar",
+    role: "Arvind",
+    image: "/placeholder25.jpg?height=300&width=300",
+    statement:
+      "Thanks for helping with my Project. I used to disturb you a lot with my questions and starting the API Endpoints, but you were always patient and helpful. I really appreciate that.",
+    cardStyle: "neon-cyan",
+    shape: "rounded-[2.5rem]",
+    animation: "hover:-rotate-1",
   }
 ]
 
